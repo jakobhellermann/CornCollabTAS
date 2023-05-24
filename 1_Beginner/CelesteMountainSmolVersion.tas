@@ -1,0 +1,12 @@
+RecordCount:
+console load CornCollab2023/1-BeginnerLobby/CelesteMountainSmolVersion
+   1
+
+#Start
+#TODO: replace with correct amount of intro animation frames
+   0
+
+#lvl_1
+   1,J
+
+ChapterTime:
